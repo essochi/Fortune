@@ -47,6 +47,7 @@
 		8A213EBF20F663F300D10F0A /* FortuneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FortuneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A213EC320F663F300D10F0A /* FortuneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FortuneUITests.swift; sourceTree = "<group>"; };
 		8A213EC520F663F300D10F0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A213ED120F6662D00D10F0A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		8A213E9720F663F100D10F0A = {
 			isa = PBXGroup;
 			children = (
+				8A213ED120F6662D00D10F0A /* README.md */,
 				8A213EA220F663F100D10F0A /* Fortune */,
 				8A213EB720F663F300D10F0A /* FortuneTests */,
 				8A213EC220F663F300D10F0A /* FortuneUITests */,
